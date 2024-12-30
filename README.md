@@ -1,3 +1,5 @@
+# **Hades II Blender Addon**
+
 A blender addon for handling Hades II models & animations.
 
 Current Features:
